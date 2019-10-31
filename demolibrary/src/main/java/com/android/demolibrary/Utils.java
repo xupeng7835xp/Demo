@@ -18,4 +18,10 @@ public class Utils {
         return i + j;
 
     }
+
+    public static int DemoJian(int i, int j) {
+
+        return i - j;
+
+    }
 }
